@@ -8,3 +8,5 @@ Note:
 - qiskit 2.2.3
 # Run the code
 The code to run is in lab2a.ipynb, lab2b.ipynb and lab2c.ipynb
+# Git
+https://github.com/CNStanLee/EEC55C30-Labs
